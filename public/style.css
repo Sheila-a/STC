@@ -33,6 +33,7 @@ a {
     border-radius: 5px;
     border-style: 10px ;
     border-color: #80ffdb;
+    object-fit: contain;
 }
 
 .nav_search {
@@ -186,6 +187,7 @@ a {
     top: 0; 
     justify-content: center;
     align-items: center;
+    object-fit: contain;
 }
 
 /* Third Hero */
